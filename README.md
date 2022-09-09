@@ -10,10 +10,7 @@ INTERESTS:
 
 <p> 🤩 Improving my coding skills to become a full stack developer 🤩 </p>
 <p> 💻 New Technologies </p>
-<p> 💸 High interest in the financial markets and global economy. </p>
-<p> 💰 Investing, stock market, stock analysis, macroeconomics, global financial systems. </p>
 <p> 🖥 Software Development.</p>
-<p> 👨‍🏫 Data Analysis.</p>
 
 ## 💻 Skills
 
@@ -37,10 +34,6 @@ INTERESTS:
 ## 📊 Github Status
 
 <p><img src="https://activity-graph.herokuapp.com/graph?username=justnotiyann"><p>
-
-```html
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justnotiyann&layout=compact"><p>
-```
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justnotiyann&layout=compact"><p>
 
