@@ -11,7 +11,7 @@ INTERESTS:
 <p> Web dev wanna bee xixi </p>
 <p> New Technologies </p>
 <p> Software Development.</p>
-
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justnotiyann&layout=compact"><p>
 ## 💻 Skills
 
 <p>
@@ -29,7 +29,7 @@ INTERESTS:
 
 <p><img src="https://activity-graph.herokuapp.com/graph?username=justnotiyann"><p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justnotiyann&layout=compact"><p>
+
 
 <p><img src="https://metrics.lecoq.io/justnotiyann"><p>
 
