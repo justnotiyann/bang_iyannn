@@ -1,16 +1,14 @@
 <p><img src="https://visitcount.itsvg.in/api?id=justnotiyann&label=Profile%20Views&color=12&icon=5&pretty=true"><p>
 
-# Hi there 👋, My name is bang_iyann
+# Hi there 👋, My name is iyann
 
-Informatic Stundent looking to take the first step into a new career.
+Informatic Student !
 
 ## 💫 Little Bit More About Me
 
 INTERESTS:
 
-<p> Web dev wanna bee xixi </p>
-<p> New Technologies </p>
-<p> Software Development.</p>
+<p> <b>Web dev wanna be !</> </p>
 
 ## 💻 Skills
 
