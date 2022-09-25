@@ -8,9 +8,9 @@ Informatic Stundent looking to take the first step into a new career.
 
 INTERESTS:
 
-<p> 🤩 Improving my coding skills to become a full stack developer 🤩 </p>
-<p> 💻 New Technologies </p>
-<p> 🖥 Software Development.</p>
+<p> Web dev wanna bee xixi </p>
+<p> New Technologies </p>
+<p> Software Development.</p>
 
 ## 💻 Skills
 
@@ -25,12 +25,6 @@ INTERESTS:
 <img src="https://img.shields.io/badge/express-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 4px;" height="30px">
 </p>
 
-## 👥 Connect With Me
-
-<p>
-<a href="https://www.instagram.com/just_iyann/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-</p>
-
 ## 📊 Github Status
 
 <p><img src="https://activity-graph.herokuapp.com/graph?username=justnotiyann"><p>
@@ -39,9 +33,3 @@ INTERESTS:
 
 <p><img src="https://metrics.lecoq.io/justnotiyann"><p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=justnotiyann"><p>
-
-## 🏆 GitHub Trophies
-
-<p><img src="https://github-profile-trophy.vercel.app/?username=justnotiyann">
-</p>
