@@ -3,11 +3,6 @@
 # Hi there 👋, My name is iyann
 
 Informatic Student !
-
-## 💫 Little Bit More About Me
-
-INTERESTS:
-
 <p> <b>Web dev wanna be !</> </p>
 
 ## 💻 Skills
