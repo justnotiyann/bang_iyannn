@@ -1,6 +1,11 @@
 <p><img src="https://visitcount.itsvg.in/api?id=justnotiyann&label=Profile%20Views&color=12&icon=5&pretty=true"><p>
 
 # Welcome To My Github Profile 🙌
+  
+[![Bang Iyann Github Stats](https://github-readme-stats.vercel.app/api?username=justnotiyann&count_private=true&theme=default&show_icons=true)](https://github.com/justnotiyann)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justnotiyann&layout=compact)](https://github.com/justnotiyann)
+<br>
+
 
 <p>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-bottom: 4px;" height="30px">
