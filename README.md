@@ -2,10 +2,9 @@
 
 # Welcome To My Github Profile 🙌
   
-<div align="center">
+
 [![Bang Iyann Github Stats](https://github-readme-stats.vercel.app/api?username=justnotiyann&count_private=true&theme=default&show_icons=true)](https://github.com/justnotiyann)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justnotiyann&layout=compact)](https://github.com/justnotiyann)
-</div>
   
 <br>
 
